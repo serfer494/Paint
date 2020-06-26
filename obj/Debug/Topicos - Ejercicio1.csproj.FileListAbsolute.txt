@@ -1,0 +1,49 @@
+C:\Users\adolf\Documents\Topicos\Topicos - Ejercicio1\Topicos - Ejercicio1\bin\Debug\Topicos - Ejercicio1.exe.config
+C:\Users\adolf\Documents\Topicos\Topicos - Ejercicio1\Topicos - Ejercicio1\bin\Debug\Topicos - Ejercicio1.exe
+C:\Users\adolf\Documents\Topicos\Topicos - Ejercicio1\Topicos - Ejercicio1\bin\Debug\Topicos - Ejercicio1.pdb
+C:\Users\adolf\Documents\Topicos\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\adolf\Documents\Topicos\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos___Ejercicio1.Form1.resources
+C:\Users\adolf\Documents\Topicos\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos___Ejercicio1.Properties.Resources.resources
+C:\Users\adolf\Documents\Topicos\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.csproj.GenerateResource.Cache
+C:\Users\adolf\Documents\Topicos\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.exe
+C:\Users\adolf\Documents\Topicos\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.pdb
+C:\Users\CC-ITH\Documents\Topicos - Ejercicio1\Topicos - Ejercicio1\bin\Debug\Topicos - Ejercicio1.exe.config
+C:\Users\CC-ITH\Documents\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.exe
+C:\Users\CC-ITH\Documents\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.pdb
+C:\Users\CC-ITH\Documents\Topicos - Ejercicio1\Topicos - Ejercicio1\bin\Debug\Topicos - Ejercicio1.exe
+C:\Users\CC-ITH\Documents\Topicos - Ejercicio1\Topicos - Ejercicio1\bin\Debug\Topicos - Ejercicio1.pdb
+C:\Users\CC-ITH\Documents\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\CC-ITH\Documents\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos___Ejercicio1.frmPrincipal.resources
+C:\Users\CC-ITH\Documents\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos___Ejercicio1.frmAcercaDe.resources
+C:\Users\CC-ITH\Documents\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos___Ejercicio1.Properties.Resources.resources
+C:\Users\CC-ITH\Documents\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.csproj.GenerateResource.Cache
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\bin\Debug\Topicos - Ejercicio1.exe.config
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.exe
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.pdb
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\bin\Debug\Topicos - Ejercicio1.exe
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\bin\Debug\Topicos - Ejercicio1.pdb
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos___Ejercicio1.frmPrincipal.resources
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos___Ejercicio1.frmAcercaDe.resources
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos___Ejercicio1.Properties.Resources.resources
+C:\Users\CC-ITH\Documents\Visual Studio 2015\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.csproj.GenerateResource.Cache
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\bin\Debug\Topicos - Ejercicio1.exe.config
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\bin\Debug\Topicos - Ejercicio1.exe
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\bin\Debug\Topicos - Ejercicio1.pdb
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos___Ejercicio1.frmPrincipal.resources
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos___Ejercicio1.frmAcercaDe.resources
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos___Ejercicio1.Properties.Resources.resources
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.csproj.GenerateResource.Cache
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.exe
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.pdb
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\bin\Debug\Topicos - Ejercicio1.exe.config
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\bin\Debug\Topicos - Ejercicio1.exe
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\bin\Debug\Topicos - Ejercicio1.pdb
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\obj\Debug\Topicos___Ejercicio1.frmPrincipal.resources
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\obj\Debug\Topicos___Ejercicio1.frmAcercaDe.resources
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\obj\Debug\Topicos___Ejercicio1.Properties.Resources.resources
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.csproj.GenerateResource.Cache
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.exe
+C:\Users\Sergio\Documents\Visual Studio 2017\Projects\Topicos - Ejercicio1\obj\Debug\Topicos - Ejercicio1.pdb
